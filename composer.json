@@ -1,0 +1,15 @@
+{
+    "name": "legion/pdc10-class-management",
+    "autoload": {
+        "psr-4": {
+            "Legion\\Pdc10ClassManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "highEloPlayer",
+            "email": "nfcobra20@gmail.com"
+        }
+    ],
+    "require": {}
+}
